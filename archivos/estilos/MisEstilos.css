@@ -1,0 +1,94 @@
+@font-face {
+    font-family: "FuenteBarca1";
+    src: url(../fuente/ZenDots-Regular.ttf);
+}
+
+@font-face {
+    font-family: "FuenteBarca2";
+    src: url(../fuente/Karantina-Bold.ttf);
+}
+
+.bg-dark {
+    background-color: black !important;
+}
+
+.bg-red{
+    background-color: rgb(161, 28, 28) !important;
+}
+
+.menu{
+    color: white;
+    font-family: "FuenteBarca1";
+    border-bottom: 6px solid rgb(240, 204, 40);
+    font-size: 18px;
+}
+
+.letra-barcelona{
+    font-family: 'FuenteBarca1';
+    color: rgb(240, 204, 40);
+    font-size: 26px;
+}
+
+.letra-barcelona1{
+    font-family: 'FuenteBarca2';
+    color: rgb(240, 204, 40);
+    font-size: 26px;
+}
+
+.color-amarillo{
+    color: rgb(240, 204, 40);
+}
+
+.color-negro{
+    color: black;
+}
+
+.borde-amarillo{
+    border-color: rgb(240, 204, 40) !important;
+}
+
+.borde-redondo{
+    border-radius: 16px;
+}
+
+.borde-8{
+    border-width: 8px !important;
+}
+
+.divisor{
+    color: rgb(240, 204, 40);
+    height: 5px;
+    opacity: unset !important;
+    margin-top: 20px;
+}
+
+.bg-danger{
+    background-color: rgb(150, 16, 13) !important;
+}
+
+.letra-promociones1{
+    font-family: 'FuenteBarca1';
+    color: rgb(240, 204, 40);
+    font-size: 26px !important; 
+}
+
+.btn-outline-danger {
+    color: rgb(150, 16, 13);
+    border-color: rgb(150, 16, 13);
+}
+
+.btn-outline-danger:hover {
+    color: #fff;
+    background-color: blue;
+    border-color: black;
+}
+
+.letra-haaland{
+    font-family: 'FuenteBarca1';
+    color: rgb(240, 204, 40);
+    font-size: 32px;
+}
+
+.fondo-imagen{
+    background-image: url(Barcelona.logo2.png));
+}
